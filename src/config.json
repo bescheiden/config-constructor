@@ -1,6 +1,5 @@
 {
   "注释": {
-    "base_url": "域名 正式环境>http://m.7mall.cn  灰度环境>http://gray.7mall.cn 测试环境>http://test.web.7mall.com",
     "activity_url": "当前活动页面地址",
     "tickets": "优惠券id 如果一次领取多个优惠券用,隔开 如 78,79",
     "xdlh": "圣诞限定礼盒",
@@ -9,8 +8,6 @@
     "fenlei": "类目分会"
   },
   "config": {
-    "base_url": "http://m.7mall.cn",
-    "activity_url": "/activitys/activity1218/sdkxg.html",
     "shareParam": {
       "web_url": "",
       "forbid_share": "1",
@@ -33,7 +30,7 @@
         "list_axg1": [],
         "list_axg2": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375 ",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -41,7 +38,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -51,7 +48,7 @@
         ],
         "list_axg3": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375 ",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -59,7 +56,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -76,7 +73,7 @@
       },
       "list_sdshb1": [
         {
-          "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+          "goods_main_photo": "https://dummyimage.com/375x375",
           "goods_name": " 韩国初莹chuying 牙膏4只装  ",
           "goods_price": "66",
           "activity_price": "59",
@@ -84,7 +81,7 @@
           "id": "8629"
         },
         {
-          "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+          "goods_main_photo": "https://dummyimage.com/375x375",
           "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
           "goods_price": "47",
           "activity_price": "36",
@@ -94,7 +91,7 @@
       ],
       "list_sdshb2": [
         {
-          "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+          "goods_main_photo": "https://dummyimage.com/375x375 ",
           "goods_name": " 韩国初莹chuying 牙膏4只装  ",
           "goods_price": "66",
           "activity_price": "59",
@@ -102,7 +99,7 @@
           "id": "8629"
         },
         {
-          "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+          "goods_main_photo": "https://dummyimage.com/375x375",
           "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
           "goods_price": "47",
           "activity_price": "36",
@@ -129,7 +126,7 @@
         ],
         "list_mzgh1": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -137,7 +134,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -147,7 +144,7 @@
         ],
         "list_mzgh2": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -155,7 +152,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -181,7 +178,7 @@
         ],
         "list_spsx1": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375 ",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -189,7 +186,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -199,7 +196,7 @@
         ],
         "list_spsx2": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375 ",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -207,7 +204,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -233,7 +230,7 @@
         ],
         "list_myet1": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -241,7 +238,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",
@@ -251,7 +248,7 @@
         ],
         "list_myet2": [
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/21/2017/11/29/f0350bd9-7866-4615-8993-1da7f1a2cd4d.jpg_middle.jpg ",
+            "goods_main_photo": "https://dummyimage.com/375x375 ",
             "goods_name": " 韩国初莹chuying 牙膏4只装  ",
             "goods_price": "66",
             "activity_price": "59",
@@ -259,7 +256,7 @@
             "id": "8629"
           },
           {
-            "goods_main_photo": "http://img7mall.blessi.cn/upload/store/11/2017/03/09/a89832c6-a684-42e1-8f25-3dabd1b20b51.jpg",
+            "goods_main_photo": "https://dummyimage.com/375x375",
             "goods_name": "seeyoung 滋源 茶籽控油去屑洗头水 265ml ",
             "goods_price": "47",
             "activity_price": "36",

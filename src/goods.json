@@ -1,6 +1,5 @@
 {
   "注释": {
-    "base_url": "域名 正式环境>http://m.7mall.cn  灰度环境>http://gray.7mall.cn 测试环境>http://test.web.7mall.com",
     "activity_url": "当前活动页面地址",
     "tickets": "优惠券id 如果一次领取多个优惠券用,隔开 如 78,79",
     "xdlh": "圣诞限定礼盒",
@@ -9,8 +8,6 @@
     "fenlei": "类目分会"
   },
   "config": {
-    "base_url": "http://m.7mall.cn",
-    "activity_url": "/activitys/activity1218/sdkxg.html",
     "shareParam": {
       "web_url": "",
       "forbid_share": "1",
