@@ -1,0 +1,121 @@
+{
+  "注释": {
+    "base_url": "域名 正式环境>http://m.7mall.cn  灰度环境>http://gray.7mall.cn 测试环境>http://test.web.7mall.com",
+    "activity_url": "当前活动页面地址",
+    "tickets": "优惠券id 如果一次领取多个优惠券用,隔开 如 78,79",
+    "xdlh": "圣诞限定礼盒",
+    "hqxyh": "圣诞环球巡游汇",
+    "sdshb": "圣诞扫货榜",
+    "fenlei": "类目分会"
+  },
+  "config": {
+    "base_url": "http://m.7mall.cn",
+    "activity_url": "/activitys/activity1218/sdkxg.html",
+    "shareParam": {
+      "web_url": "",
+      "forbid_share": "1",
+      "share_title": "你有一个祝福等待查看",
+      "share_desc": "圣诞专属优惠券立即获取，有朋在侧，温暖在左右~",
+      "share_img": "",
+      "web_bgImage_url": ""
+    },
+    "tickets": [
+      "248",
+      "256"
+    ],
+    "list_xdlh": [],
+    "hqxyh": [
+      {
+        "config": {
+          "id": "88888888,1500",
+          "title": "澳新馆"
+        },
+        "list_axg1": [],
+        "list_axg2": [],
+        "list_axg3": []
+      },
+      {
+        "config": {
+          "id": "88888888,1503",
+          "title": "欧美馆"
+        },
+        "list_omg1": [],
+        "list_omg2": [],
+        "list_omg3": []
+      },
+      {
+        "config": {
+          "id": "88888888,1506",
+          "title": "日韩馆"
+        },
+        "list_rhg1": [],
+        "list_rhg2": [],
+        "list_rhg3": []
+      }
+    ],
+    "sdshb": {
+      "config": {
+        "id": "88888888,1497",
+        "title": "圣诞扫货榜"
+      },
+      "list_sdshb1": [],
+      "list_sdshb2": []
+    },
+    "fenlei": [
+      {
+        "config": [
+          {
+            "id": "9",
+            "title": "美妆个护"
+          },
+          {
+            "id": "88888888,1509",
+            "title": "必败彩妆护肤"
+          },
+          {
+            "id": "88888888,1508",
+            "title": "家清个护清单"
+          }
+        ],
+        "list_mzgh1": [],
+        "list_mzgh2": []
+      },
+      {
+        "config": [
+          {
+            "id": "50",
+            "title": "食品生鲜"
+          },
+          {
+            "id": "88888888,1517",
+            "title": "休闲零食合集"
+          },
+          {
+            "id": "88888888,1518",
+            "title": "酒水饮料好货"
+          }
+        ],
+        "list_spsx1": [],
+        "list_spsx2": []
+      },
+      {
+        "config": [
+          {
+            "id": "10",
+            "title": "母婴儿童"
+          },
+          {
+            "id": "88888888,1511",
+            "title": "喂养口碑好物"
+          },
+          {
+            "id": "88888888,1512",
+            "title": "宝宝洗护榜单"
+          }
+        ],
+        "list_myet1": [],
+        "list_myet2": []
+      }
+    ]
+  }
+}
